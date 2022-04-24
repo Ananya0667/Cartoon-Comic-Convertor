@@ -8,7 +8,7 @@ Converting a image into a comic cartoon image using OpenCV and Python.
 
 <p align="center">
 <a href="https://github.com/Ananya0667">
-  <img height="180em" src="https://github.com/Ananya0667/Cartoon-Comic-Convertor/blob/master/ana01.PNG"/>
-  <img height="160em" src="https://github.com/Ananya0667/Cartoon-Comic-Convertor/blob/master/cartoon01.PNG"/>
+  <img height="250em" src="https://github.com/Ananya0667/Cartoon-Comic-Convertor/blob/master/ana01.PNG"/>
+  <img height="250em" src="https://github.com/Ananya0667/Cartoon-Comic-Convertor/blob/master/cartoon01.PNG"/>
 </a>
 </p>
